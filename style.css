@@ -110,3 +110,9 @@ svg {
     scroll-behavior: auto !important;
   }
 }
+
+body {
+  font-size: var(--fs-body);
+  font-family: var(--ff-body);
+  color: var(--clr-primary-400);
+}
